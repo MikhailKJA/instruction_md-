@@ -47,3 +47,7 @@ git checkout master
 
     git checkout branch_name
 
+## Слияник веток и решение конфликтов
+
+Чтобы слить информацию из ветки branch_name в текущую:
+    git merge branch_name
